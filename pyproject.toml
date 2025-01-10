@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ocftw-volunteer"
+version = "0.1.0"
+description = "Volunteers Assemble"
+authors = ["Volunteer OCF <volunteer@ocf.tw>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs-material = {extras = ["imaging"], version = "^9.5.49"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
