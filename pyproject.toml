@@ -10,6 +10,9 @@ python = "^3.12"
 mkdocs-material = {extras = ["imaging"], version = "^9.5.49"}
 
 
+[tool.poetry.group.dev.dependencies]
+awscli = "^1.36.38"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
