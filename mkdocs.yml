@@ -1,0 +1,68 @@
+docs_dir: !ENV [DOCS_DIR, "zh-TW"]
+site_name: !ENV [SITE_NAME, "OCF Volunteer 志工團隊"]
+site_url: !ENV [SITE_URL, "https://volunteer.ocf.tw/"]
+edit_uri: !ENV [EDIT_URI, "https://github.com/ocftw/volunteer/blob/main/zh-TW/"]
+
+site_description: !ENV [SITE_DESC, "投入志工行列、豐富開源生態！"]
+site_author: OCF Volunteer
+copyright: "CC-BY 4.0 2025 Volunteer Team"
+nav:
+  - index.md
+  - apply.md
+  - verify.md
+theme:
+  name: material
+  icon:
+    logo: material/account-group
+  favicon: assets/images/favicon.svg
+  language: zh-TW
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+extra:
+  analytics:
+    provider: google
+    property: G-X3DG2E5E3W
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+  - social:
+      cards_layout_options:
+        font_family: Noto Sans TC
+        color: "#ffffff"
+        background_color: "#ff6e42"
+  - privacy
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
