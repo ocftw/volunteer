@@ -8,41 +8,39 @@ icon: material/account-plus
 
 ## 申請
 
-??? info "關於申請"
+提出申請時，請協助我們思考**此刻到未來一年**可以投入的可能，申請表上的詢問請依一年內的時間區間規劃來填寫。可重複填寫申請是沒問題的，我們會根據最後一次填寫的狀況為主！未來我們會定期（一年後或重大活動時）的詢問您是否需要更新志工投入的狀況！
 
-    提出申請時，請協助我們思考**此刻到未來一年**可以投入的可能，申請表上的詢問請依一年內的時間區間規劃來填寫。可重複填寫申請是沒問題的，我們會根據最後一次填寫的狀況為主！未來我們會定期（一年後或重大活動時）的詢問您是否需要更新志工投入的狀況！
+### 申請方式
 
-??? info "申請方式"
+您可以透過線上表單（使用 Google Form）或複製純文字格式透過電子郵件寄送（其實書面也可接受）。
 
-    您可以透過線上表單（使用 Google Form）或複製純文字格式透過電子郵件寄送（其實書面也可接受）。
+??? tip "（最方便）線上表單"
 
-    ??? tip "（最方便）線上表單"
+    - [填寫申請表單（Google Form）](https://docs.google.com/forms/d/e/1FAIpQLSeVkvfsTA9GmkhCLAIVTzSEvsW6V_GCzh-FMX-RBmQ62fYvog/viewform){target="_blank"}
 
-        - [填寫申請表單（Google Form）](https://docs.google.com/forms/d/e/1FAIpQLSeVkvfsTA9GmkhCLAIVTzSEvsW6V_GCzh-FMX-RBmQ62fYvog/viewform){target="_blank"}
+??? tip "（較隱私）複製申請內容"
 
-    ??? tip "（較隱私）複製申請內容"
+    複製以下內容後寄送到：[volunteer@ocf.tw](mailto:volunteer@ocf.tw){target="_blank"}
 
-        複製以下內容後寄送到：[volunteer@ocf.tw](mailto:volunteer@ocf.tw){target="_blank"}
+    ```txt title="申請內容（純文字格式）"
+    - 暱稱：
+    - 電子郵件：（可略，預設使用寄件者信箱）
+    - 可投入程度（未來一年預計可以投入的程度，即使選擇接近無法參與也沒有關係，我們會定時詢問希望協助事項。）：1 - 5
+    - 感興趣的議題：
+        [ ] 開放原始碼（Open Source）
+        [ ] 開放資料（Open Data）
+        [ ] 開放政府（Open Government）
+        [ ] 網路自由（Internet Freedom）
+        [ ] 數位人權（Digital Rights）
+        [ ] 其他：
+    - 自我介紹（協助讓我們快速瞭解關於你的專長或背景。）：
+    ```
 
-        ```txt title="申請內容（純文字格式）"
-        - 暱稱：
-        - 電子郵件：
-        - 可投入程度（未來一年預計可以投入的程度，即使選擇接近無法參與也沒有關係，我們會定時詢問希望協助事項。）：1 - 5
-        - 感興趣的議題：
-            [ ] 開放原始碼（Open Source）
-            [ ] 開放資料（Open Data）
-            [ ] 開放政府（Open Government）
-            [ ] 網路自由（Internet Freedom）
-            [ ] 數位人權（Digital Rights）
-            [ ] 其他：
-        - 自我介紹（協助讓我們快速瞭解關於你的專長或背景。）：
-        ```
+??? tip "（最懷舊）書面寄送"
 
-    ??? tip "（最懷舊）書面寄送"
+    如果你真的想要郵寄申請，我們的地址為：
 
-        如果你真的想要郵寄申請，我們的地址為：
-
-          - (105057) 臺北市松山區八德路四段 636 之 1 號 開放文化基金會 收
+      - (105057) 臺北市松山區八德路四段 636 之 1 號 開放文化基金會 收
 
 ## 常見問題
 
