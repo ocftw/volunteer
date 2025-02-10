@@ -19,3 +19,4 @@ icon: material/fire
 如果您在未來的一年剛好可以挪出一些時間來參與我們，不論是活動舉辦、到處擺攤推廣開源精神、或是開放科技專案的推動，都歡迎透過以下連結提出申請、登錄！
 
 [:material-account-plus: 志工申請與登錄](./apply.md){ .md-button }
+[:material-newspaper-variant-outline: 近期公告](./blog/index.md){ .md-button }

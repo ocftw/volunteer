@@ -10,6 +10,7 @@ nav:
   - index.md
   - apply.md
   - verify.md
+  - blog/index.md
 theme:
   name: material
   icon:
@@ -39,6 +40,7 @@ theme:
     - content.code.copy
     - search.suggest
     - search.highlight
+  custom_dir: !ENV [OVERRIDES, "overrides"]
 extra:
   analytics:
     provider: google
@@ -56,6 +58,11 @@ plugins:
         color: "#ffffff"
         background_color: "#ff6e42"
   - privacy
+  - blog:
+      post_url_date_format: yyyy/MM
+      post_url_format: "{date}/{slug}"
+      archive: false
+      categories: true
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -66,3 +73,5 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
