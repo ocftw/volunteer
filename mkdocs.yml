@@ -63,6 +63,14 @@ plugins:
       post_url_format: "{date}/{slug}"
       archive: false
       categories: true
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
+        as_update: git
+      categories:
+        - categories
+        - tages
 markdown_extensions:
   - attr_list
   - md_in_html

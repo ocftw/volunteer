@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 mkdocs-material = {extras = ["imaging"], version = "^9.5.49"}
+mkdocs-rss-plugin = "^1.17.1"
 
 
 [tool.poetry.group.dev.dependencies]
