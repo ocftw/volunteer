@@ -5,7 +5,7 @@ authors:
 categories:
     - 任務
 slug: rightscon25-tor-tails-ooni
-image: "/assets/images/tor-pre-event-volunteer.png"
+image: "assets/images/tor-pre-event-volunteer.png"
 summary: "於 2025/02/23 下午與晚上的活動需要志工夥伴 10 位的協助，請確認工作任務後提出可以參與的時段，歡迎加入，非常感謝！"
 description: "於 2025/02/23 下午與晚上的活動需要志工夥伴 10 位的協助，請確認工作任務後提出可以參與的時段，歡迎加入，非常感謝！"
 ---
