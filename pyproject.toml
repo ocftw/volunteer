@@ -1,19 +1,15 @@
-[tool.poetry]
+[project]
 name = "ocftw-volunteer"
 version = "0.1.0"
 description = "Volunteers Assemble"
-authors = ["Volunteer OCF <volunteer@ocf.tw>"]
 readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.6.12",
+    "mkdocs-rss-plugin>=1.17.1",
+]
 
-[tool.poetry.dependencies]
-python = "^3.12"
-mkdocs-material = {extras = ["imaging"], version = "^9.5.49"}
-mkdocs-rss-plugin = "^1.17.1"
-
-
-[tool.poetry.group.dev.dependencies]
-awscli = "^1.36.38"
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "awscli>=1.40.3",
+]
