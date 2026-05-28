@@ -1,0 +1,24 @@
+name: 內容問題 / Content issue
+description: 回報網站內容的錯字、失效連結、過期或錯誤資訊。Report typos, broken links, or outdated/incorrect content.
+title: "[內容] "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感謝回報！請盡量提供頁面網址與具體說明。
+        Thanks for reporting! Please include the page URL and details.
+  - type: input
+    id: page
+    attributes:
+      label: 頁面網址 / Page URL
+      placeholder: https://volunteer.ocf.tw/...
+    validations:
+      required: false
+  - type: textarea
+    id: what
+    attributes:
+      label: 問題說明 / What's wrong
+      description: 描述看到的問題，以及你預期的正確內容。Describe the issue and what you'd expect instead.
+    validations:
+      required: true

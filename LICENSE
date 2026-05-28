@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-NOTE: The MIT License above applies to the *code* and configuration in this
-repository (e.g. `mkdocs.yml`, theme overrides under `overrides/`, stylesheets,
-and CI workflows).
-
-The *documentation content* under `zh-TW/` (Markdown pages, blog posts, and
-images authored for this site) is licensed separately under the Creative
-Commons Attribution 4.0 International License (CC BY 4.0). See
-`LICENSE-CONTENT.md` for details.

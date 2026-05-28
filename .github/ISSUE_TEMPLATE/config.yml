@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 一般問題 / General questions
+    url: mailto:volunteer@ocf.tw
+    about: 非 bug 或內容問題的提問，歡迎直接來信。For general questions, email us instead.
+  - name: 志工申請與登錄 / Apply & register
+    url: https://volunteer.ocf.tw/apply/
+    about: 想申請或登錄志工嗎？請看申請頁面。Want to volunteer? See the apply page.
