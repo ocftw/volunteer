@@ -4,12 +4,24 @@ version = "0.1.0"
 description = "Volunteers Assemble"
 readme = "README.md"
 requires-python = ">=3.12"
+license = "MIT"
+authors = [
+    { name = "OCF Volunteer", email = "volunteer@ocf.tw" },
+]
+keywords = [
+    "mkdocs",
+    "mkdocs-material",
+    "ocf",
+    "open-culture-foundation",
+    "volunteer",
+    "documentation",
+]
 dependencies = [
-    "mkdocs-material[imaging]>=9.6.12",
-    "mkdocs-rss-plugin>=1.17.1",
+    "mkdocs-material[imaging]>=9.7.6",
+    "mkdocs-rss-plugin>=1.19.0",
 ]
 
-[dependency-groups]
-dev = [
-    "awscli>=1.40.3",
-]
+[project.urls]
+Homepage = "https://volunteer.ocf.tw/"
+Repository = "https://github.com/ocftw/volunteer"
+Documentation = "https://volunteer.ocf.tw/"
