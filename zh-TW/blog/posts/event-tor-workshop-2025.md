@@ -12,7 +12,7 @@ description: "於 2025/08 匿名網路工作坊活動，培訓小幫手、活動
 
 # 匿名網路工作坊活動 - 202508
 
-![匿名網路工作坊活動招募工作人員與培訓小幫手](../../assets/images/event-tor-workshop-202508.png){ style="border-radius: 5px;"}
+![匿名網路工作坊活動招募工作人員與培訓小幫手](./assets/images/event-tor-workshop-202508.png){ style="border-radius: 5px;"}
 
 [OONI-Research](https://ooni-research.ocf.tw/){target="_blank"} 專案即將在 COSCUP 2025 活動中舉辦 Tor/Tails、OONI 工作坊活動，目前需要培訓活動課程中的小幫手、活動籌備工作人員，有興趣的夥伴可以查看以下的簡介。
 
