@@ -1,0 +1,26 @@
+name: 網站問題 / Site bug
+description: 回報網站顯示、排版、功能或建置上的問題。Report rendering, layout, functionality, or build issues.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: 發生什麼問題 / What happened
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: 重現步驟 / Steps to reproduce
+      description: 如何重現？請包含頁面網址。How to reproduce, including the page URL.
+    validations:
+      required: false
+  - type: input
+    id: env
+    attributes:
+      label: 環境 / Environment
+      description: 瀏覽器、裝置、作業系統。Browser, device, OS.
+      placeholder: e.g. Chrome 124 / macOS / iPhone Safari
+    validations:
+      required: false
