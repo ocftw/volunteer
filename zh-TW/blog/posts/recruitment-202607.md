@@ -5,13 +5,13 @@ authors:
 categories:
     - 任務
 slug: recruitment-202608
-image: "assets/images/recruit_hands.png"
+image: "assets/images/recruitment-2026h2.png"
 summary: "於 2026 下半年需要招募志工協助的活動"
 description: "於 2026 下半年需要招募志工協助的活動"
 ---
 # :material-hand-front-right-outline: 2026 招募志工
 
-![2026 招募志工](./assets/images/recruit_hands.png){ style="border-radius: 10px;box-shadow:1px 1px 0.6rem #ff8a66;" }
+![2026 招募志工](./assets/images/recruitment-2026h2.png){ style="border-radius: 10px;box-shadow:1px 1px 0.6rem #ff8a66;" }
 
 [開放文化基金會 OCF](https://ocf.tw/){target="_blank"} 預定在 2026 下半年前往研討會、活動擺攤，每一場活動需要志工夥伴們的協助，和我們一起設置攤位，在攤位上宣傳開放文化基金會所倡議的項目。
 
